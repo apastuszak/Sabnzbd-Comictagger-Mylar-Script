@@ -23,3 +23,5 @@ This does the following:
 
 Comictagger can be found here:  http://code.google.com/p/comictagger/
 Mylar can be found here:   https://github.com/evilhero/mylar
+
+This version is forked off of the version Manders2600 wrote to incorporate the changes I did to make it work.
